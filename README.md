@@ -11,7 +11,7 @@
   - `pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118`
 
 - Requirements: vim_requirements.txt  
-  - `pip install -r vim/vim_requirements.txt`
+  - `pip install -r requirements.txt`
 
 - Install `causal_conv1d` 和 `mamba`  
   - `pip install causal_conv1d==1.1.1`
